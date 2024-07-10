@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @amariyala
+- 👀 I’m interested in just learning programming on a general basis.
+- ⚡ Fun fact: i like potatoes!
